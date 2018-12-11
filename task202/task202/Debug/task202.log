@@ -1,0 +1,14 @@
+﻿生成启动时间为 2018/9/25 22:45:21。
+     1>项目“E:\课件\kejian\数据结构\AAtask\task202\task202\task202.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt "源.c"
+         源.c
+     1>e:\课件\kejian\数据结构\aatask\task202\task202\源.c(62): warning C4101: “j”: 未引用的局部变量
+       Link:
+         E:\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\课件\kejian\数据结构\AAtask\task202\Debug\task202.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\课件\kejian\数据结构\AAtask\task202\Debug\task202.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\课件\kejian\数据结构\AAtask\task202\Debug\task202.lib" /MACHINE:X86 "Debug\源.obj"
+         task202.vcxproj -> E:\课件\kejian\数据结构\AAtask\task202\Debug\task202.exe
+     1>已完成生成项目“E:\课件\kejian\数据结构\AAtask\task202\task202\task202.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.62

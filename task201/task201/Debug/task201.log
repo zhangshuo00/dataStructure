@@ -1,0 +1,19 @@
+﻿生成启动时间为 2018/9/25 23:07:07。
+     1>项目“E:\课件\kejian\数据结构\AAtask\task201\task201\task201.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt "源.c"
+         源.c
+     1>e:\课件\kejian\数据结构\aatask\task201\task201\源.c(28): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>e:\课件\kejian\数据结构\aatask\task201\task201\源.c(29): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>e:\课件\kejian\数据结构\aatask\task201\task201\源.c(30): error C2065: “p”: 未声明的标识符
+     1>e:\课件\kejian\数据结构\aatask\task201\task201\源.c(30): error C2065: “q”: 未声明的标识符
+     1>e:\课件\kejian\数据结构\aatask\task201\task201\源.c(32): error C2065: “p”: 未声明的标识符
+     1>e:\课件\kejian\数据结构\aatask\task201\task201\源.c(32): error C2100: 非法的间接寻址
+     1>e:\课件\kejian\数据结构\aatask\task201\task201\源.c(32): error C2106: “=”: 左操作数必须为左值
+     1>e:\课件\kejian\数据结构\aatask\task201\task201\源.c(34): error C2065: “q”: 未声明的标识符
+     1>e:\课件\kejian\数据结构\aatask\task201\task201\源.c(34): error C2100: 非法的间接寻址
+     1>已完成生成项目“E:\课件\kejian\数据结构\AAtask\task201\task201\task201.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.29
